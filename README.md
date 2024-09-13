@@ -1,1 +1,2 @@
-My Portfolio wesbsite with a glassmorphism interface
+## My Portfolio Website
+<p>This is my portfolio website, where I showcase my journey as an aspiring developer and designer. It highlights my skills in web development, programming, and design, along with projects that reflect my passion for technology. The site features a sleek glassmorphism UI design and an immersive animated space background, creating a modern and captivating user experience. Explore to learn more about me, my expertise, and the creative projects I’ve brought to life.</p>
