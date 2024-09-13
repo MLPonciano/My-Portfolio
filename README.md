@@ -1,2 +1,2 @@
 ## My Portfolio Website
-<p>This is my portfolio website, where I introduce myself as an IT student dedicated to learning and growing in the field of technology. It highlights my skills in web development and design, along with the projects I’ve completed, reflecting my journey and progress. The site features a modern glassmorphism UI design with an animated space background, aligning with my interest in creative and interactive interfaces.</p>
+<p>This is my portfolio website, where you can explore my passion for tech and design. Featuring a sleek glassmorphism UI and an animated space background, it showcases my skills in front-end development, UI/UX design, and my various projects.</p>
